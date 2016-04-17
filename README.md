@@ -9,3 +9,5 @@ Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('fil
 in firefox console no error but the page is still blank
 
 the error is same with or without using apache http webserver(or any other)
+
+any fix is appreciated.
