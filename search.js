@@ -9,7 +9,7 @@ function onClientLoad() {
 }
 
 function onYouTubeApiLoad() {
-  gapi.client.setApiKey('AIzaSyC2S4JZSfyseE4MrcCGsrMzvvk-Skemav8');
+  gapi.client.setApiKey('YOUR API KEY'); //put your api key here
 
   var request = gapi.client.youtube.search.list({
     part: 'snippet',
